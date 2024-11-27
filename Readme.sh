@@ -24,7 +24,7 @@ Overview
 This project aims to predict diabetes using machine learning techniques. The model uses a Support Vector Machine (SVM) with a linear kernel, trained on a dataset with various health metrics. Data preprocessing includes normalization using Standard Scaler.
 
 Dataset
-Source: [Mention the source if applicable, e.g., UCI Machine Learning Repository]
+Source: Kaggle
 
 Features:
 
