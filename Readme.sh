@@ -67,7 +67,7 @@ Usage
 Clone the repository:
 
 sh
-git clone https://github.com/yourusername/diabetes-prediction-model.git
+git clone https://github.com/rajbasnet123789/DIABETIC-PREDICTION.git
 cd diabetes-prediction-model
 Install the required packages:
 
@@ -75,17 +75,7 @@ sh
 pip install -r requirements.txt
 Run the script:
 
-sh
-python predict_diabetes.py
-Installation
-Clone the repository:
 
-sh
-git clone https://github.com/yourusername/diabetes-prediction-model.git
-Navigate to the project directory:
-
-sh
-cd diabetes-prediction-model
 Install dependencies:
 
 sh
